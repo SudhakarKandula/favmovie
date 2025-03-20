@@ -1,0 +1,70 @@
+.dis {
+    text-align: center;
+}
+
+.im {
+    width: 200px;
+    height: 200px;
+    margin: 5px;
+}
+
+.leo {
+    display: flex;
+
+}
+
+.bod {
+    width: 100%;
+    height: 100%;
+    background-color: #4CAAE4;
+    padding: 10px;
+}
+
+.head1 {
+    color: bisque;
+}
+
+.con {
+    color: beige;
+}
+
+.con1 {
+    color: beige;
+    text-align: left;
+    padding: 5px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1;
+
+}
+
+.l {
+    margin: 5px;
+}
+
+a {
+
+    color: beige;
+
+}
+
+.hli {
+    list-style-type: none;
+    display: flex;
+    text-align: left;
+
+
+}
+
+.lim {
+    padding: 5px;
+
+}
+
+.lim a {
+    text-decoration: none;
+}
+
+.lim a:hover {
+    text-decoration: underline;
+}
